@@ -22,16 +22,8 @@ ConverterTabsJava est une application Android moderne développée en Java. Elle
 
 ## Structure du Projet
 
-app/src/main/java/com/example/convertertabsjava/
-├── MainActivity.java        # Gestion des onglets et du ViewPager2
-├── ViewPagerAdapter.java    # Adaptateur gérant le chargement des fragments
-├── TempFragment.java        # Logique de conversion de température
-└── DistanceFragment.java    # Logique de conversion de distance
+<img width="307" height="314" alt="image" src="https://github.com/user-attachments/assets/995e72d6-6a3b-43fe-99dd-327b19bd3a94" />
 
-app/src/main/res/layout/
-├── activity_main.xml        # Layout principal (TabLayout + ViewPager2)
-├── fragment_temp.xml        # Design du convertisseur de température
-└── fragment_distance.xml    # Design du convertisseur de distance
 
 ## Démonstration Vidéo
 
